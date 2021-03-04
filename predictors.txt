@@ -1,6 +1,6 @@
-14 studytime - weekly study time (numeric: 1 - <2 hours, 2 - 2 to 5 hours, 3 - 5 to 10 hours, or 4 - >10 hours)
-16 schoolsup - extra educational support (binary: yes or no) 
-22 internet - Internet access at home (binary: yes or no) 
-30 absences - number of school absences (numeric: from 0 to 93) 
+2. Temp : temperature noon (temperature max) in Celsius degrees: 22 to 42
+3. RH : Relative Humidity in %: 21 to 90
+4. Ws :Wind speed in km/h: 6 to 29
+5. Rain: total day in mm: 0 to 16.8 
 
-32 G3 - final grade (numeric: from 0 to 20, output target)
+
